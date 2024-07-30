@@ -1,0 +1,157 @@
+/* css reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+* h3{
+    text-decoration: underline;
+    text-align: center;
+}
+.header {
+    text-align: center;
+    background-color: rgb(2, 133, 133);
+    border: black 3px solid;
+    padding: 65px;
+}
+
+section {
+
+}
+
+section, header, footer {
+   
+}
+.para-in-red-box{
+   display: inline-flex;
+}
+
+.image01{
+    
+}
+.image02{
+ 
+}
+
+.total-form {
+    background-color: beige;
+    border: black 3px solid;
+    margin: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.inputs{
+    display: grid;
+    justify-content: space-around;
+}
+
+.input-submit{
+    display: grid;
+    justify-content: space-around;
+}
+
+.h3{
+    text-decoration: underline;
+}
+.white-film{
+    background-color: rgba(255,255,255,0.5);
+    padding-bottom: 200px;
+}
+
+.block-of-text > .while-film { padding-bottom: 200px; }
+
+.block-of-text {
+    margin-top: 10px;
+    display: flex;
+    font-size: larger;
+    margin-bottom: 10px;
+    background-image: url(images-for-tuition-page/Illustration-of-bubbles.jpg); 
+   
+
+}
+.text-esl{
+    border: solid;
+    margin-top: 10px;
+    padding-right: 150px;
+    display: flex;
+    padding-right: 30px;
+    font-size: larger;
+    margin-bottom: 10px;
+    background-image: url(images-for-tuition-page/books.jpg);
+    padding-bottom: 200px;
+
+  
+}
+.image-in-text img{
+    background-size: auto;
+    
+}
+
+
+.nav-to-all-pages ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style-type:none;
+    gap: 5px;
+    padding-bottom: 10px;
+}
+
+.para-above-form{
+    border: solid;
+    text-align: center;
+    align-items: center;
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color: crimson;
+}
+.nav-to-all-pages li a{
+    background: teal;
+    display: block;
+    text-align: center;
+    width: 150px;
+    border: black 3px solid;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+}
+
+
+
+.Early-learning-text{
+    text-align: center;
+    /* background-color: rgba(0,0,0, 0.5); */
+    color: black;
+}
+.Early-learning{
+    border: black 3px solid;
+    /* background-image: url(images-for-tuition-page/early-learning-background-image.jpeg); */
+}
+
+.All-stages{
+    border: black solid 3px;
+}
+
+.icons{
+    width: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.Book-ABC{
+    margin-right: 30px;
+    height: 50px;
+    width: 50px;
+}
+.maths-icon{
+    vertical-align: bottom;
+}
+.footer{
+    text-align: center;
+    background-color: rgb(2, 133, 133);
+    border: black 3px solid;
+    margin-bottom: 0px;
+    padding: 65px;
+}
+
